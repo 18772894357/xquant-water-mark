@@ -1,0 +1,11 @@
+{
+  "name": "xquant-water-mark-js",
+  "version": "1.0.1",
+  "description": "",
+  "main": "water-mark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
